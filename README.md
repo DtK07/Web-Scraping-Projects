@@ -5,3 +5,7 @@ The collection is a set of web scraping Python scripts designed specifically for
 Course report,
 Switch Up,
 NIRF.
+
+Libraries Used:
+Beautiful Soup, Selenium, Time, Requests, Openpyxl, Pandas
+
